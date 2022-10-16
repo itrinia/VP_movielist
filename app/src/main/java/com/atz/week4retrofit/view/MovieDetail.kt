@@ -34,13 +34,11 @@ class MovieDetail : AppCompatActivity() {
 
         binding.rvGenre.visibility = View.INVISIBLE
         binding.rvLanguage.visibility = View.INVISIBLE
-        binding.rvProductionCountry.visibility = View.INVISIBLE
         binding.rvProductionCompany.visibility = View.INVISIBLE
         binding.tvTitleMovieDetail.visibility = View.INVISIBLE
         binding.tvOverview.visibility = View.INVISIBLE
         binding.textView.visibility = View.INVISIBLE
         binding.textView2.visibility = View.INVISIBLE
-        binding.textView3.visibility = View.INVISIBLE
         binding.textView4.visibility = View.INVISIBLE
         binding.textView5.visibility = View.INVISIBLE
         binding.imgPosterMovieDetail.visibility = View.INVISIBLE
@@ -57,12 +55,10 @@ class MovieDetail : AppCompatActivity() {
                 binding.rvGenre.visibility = View.VISIBLE
                 binding.rvLanguage.visibility = View.VISIBLE
                 binding.rvProductionCompany.visibility = View.VISIBLE
-                binding.rvProductionCountry.visibility = View.VISIBLE
                 binding.tvOverview.visibility = View.VISIBLE
                 binding.tvTitleMovieDetail.visibility = View.VISIBLE
                 binding.textView.visibility = View.VISIBLE
                 binding.textView2.visibility = View.VISIBLE
-                binding.textView3.visibility = View.VISIBLE
                 binding.textView4.visibility = View.VISIBLE
                 binding.textView5.visibility = View.VISIBLE
                 binding.imgPosterMovieDetail.visibility = View.VISIBLE

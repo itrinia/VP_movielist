@@ -11,7 +11,7 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="5dp"
-        app:cardBackgroundColor="#b3cf99"
+        app:cardBackgroundColor="#c7ddb5"
         app:cardCornerRadius="10dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -24,7 +24,7 @@
             android:layout_marginStart="5dp"
             android:layout_marginTop="0dp"
             android:layout_marginEnd="5dp"
-            android:background="#b3cf99"
+            android:background="#c7ddb5"
             android:text="TextView"
             android:textSize="20sp" />
     </androidx.cardview.widget.CardView>

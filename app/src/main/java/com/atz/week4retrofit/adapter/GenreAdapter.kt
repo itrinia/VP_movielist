@@ -19,8 +19,8 @@ import com.atz.week4retrofit.model.Genre
             init {
                 // Define click listener for the ViewHolder's View.
 
-                genreshow = view.findViewById(R.id.textlanguage)
-                cvGenre = view.findViewById(R.id.cv_language)
+                genreshow = view.findViewById(R.id.textgenre)
+                cvGenre = view.findViewById(R.id.cv_genre)
             }
         }
 
